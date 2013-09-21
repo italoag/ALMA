@@ -2,7 +2,7 @@ ALMA - Application Lifecycle Management Advantage
 =========================================================================
 Copyright &copy; 2013 -, Italo Amorim Gomes. Licensed under [GPL License].
 
-[![Build Status](https://secure.travis-ci.org/alma/alma.png)](http://travis-ci.org/alma/alma)
+[![Build Status](https://secure.travis-ci.org/italoag/ALMA.png)](http://travis-ci.org/italoag/ALMA)
 
 About
 -----
