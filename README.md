@@ -8,7 +8,7 @@ About
 -----
 ALMA is an open source Application Lifecycle Management platform. It provides a full-blown Java Enterprise Development Factory using your favorite tools, in less than 5 minutes.
 
-It's purpose is to manage a seemless integration between Software Configuration Management ([SCM]), Issue Tracking System ([ITS]), Continuous Integration System ([CIS]), Repository Management System ([RMS]), Code Quality Management ([CQM]) and other tools in order to provide a complete Software Factory was inspited and based in another great ALM tool Jabox with a purpose more extended.
+It's purpose is to manage a seemless integration between Software Configuration Management ([SCM]), Issue Tracking System ([ITS]), Continuous Integration System ([CIS]), Repository Management System ([RMS]), Code Quality Management ([CQM]) and other tools in order to provide a complete Software Factory was inspited and based in another great ALM tool Jabox with more extented purpose.
 
 Its core is implementation agnostic and there are plugins that glue together each module, in order to provide better extensibility.
 
@@ -55,6 +55,7 @@ Software Configuration Management ([SCM])
 - Online Services:
  - [Bitbucket](https://bitbucket.org/)
  - [Github](https://github.com/)
+ - [Gitorious](https://gitorious.org/)
  - [Beanstalk](http://beanstalkapp.com/)
 
 Issue Tracking System ([ITS])
