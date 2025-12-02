@@ -1,5 +1,4 @@
 # ALMA — Autonomous LLM-Based Meta-Agents Architecture
-=========================================================================
 
 Uma arquitetura avançada para compor múltiplos agentes LLM, cada um com responsabilidades específicas dirigidas por specs.
 
